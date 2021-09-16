@@ -6,6 +6,7 @@ a {
     text-decoration: none;
     padding-top: 10px;
     padding-bottom: 15px;
+    padding-left: 10px;
 }
 a:hover{
     background: gainsboro;
