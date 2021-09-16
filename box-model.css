@@ -1,0 +1,21 @@
+#daftar-siswa {
+    background: #636363;
+    width: 400px;
+}
+
+p:hover{
+    background: #F3F4F6 ;
+    color: #111827;
+}
+p {
+    color: gainsboro;
+    text-transform: capitalize ;
+    font-family: sans-serif;
+    margin: 0;
+}
+.siswa {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
